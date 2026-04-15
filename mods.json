@@ -1,9 +1,7 @@
-{
-  "mods": [
-    { "wgmods_id": 6662, "mod_id": "com.github.pruszko.distancemarker" },
-    { "wgmods_id": 6349, "mod_id": "better-reticle-size" },
-    { "wgmods_id": 7605, "mod_id": "pademinune-armor-calculator" },
-    { "wgmods_id": 7477, "mod_id": "locastan.yayaminimap" },
-    { "wgmods_id": 6440, "mod_id": "me.kurzdor.autoequipmentreturn" }
-  ]
-}
+{                                                         
+    "mods": [                                                                                                                                                                                                                                                                    
+      { "wgmods_id": 2649 },                                                                                                                                                                                                                                                     
+      { "wgmods_id": 1234 },                                                                                                                                                                                                                                                     
+      { "wgmods_id": 5678 }                                                                                                                                                                                                                                                      
+    ]                                                       
+  }
